@@ -12,3 +12,6 @@ git checkout branchname - this comment is used to switch branch
 UNION keyword combine the results of two result sets and removes duplicates.
 
 UNION ALL doesn't remove duplicate rows.
+
+
+we are practicing git and using this repo as a Notes storage...

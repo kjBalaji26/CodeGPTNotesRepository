@@ -16,4 +16,6 @@ UNION ALL doesn't remove duplicate rows.
 
 we are practicing git and using this repo as a Notes storage...
 
-Going to learn another new concepts
+Going to learn another new concepts. I am typing somthing
+
+stack concepts

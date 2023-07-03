@@ -1,0 +1,6 @@
+Conflict -> more than one person have done a change in single line -> This will lead to conflict
+
+Root cause scenarios:
+    When we have local changes, And then if we try to pull, it will throw conflict.
+        It wont allow you to pull.
+    When you merge a branch into another branch, It will create conflict.

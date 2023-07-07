@@ -1,4 +1,4 @@
-public class divisible {
+class Divisible {
     public static void main(String[] args)
     {
     
